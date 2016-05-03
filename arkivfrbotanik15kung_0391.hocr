@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./arkivfrbotanik15kung_0391.png"; bbox 0 0 1980 3240; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 49 138 1731 184">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 49 138 1731 184">
+     <span class='ocr_line' id='line_1_1' title="bbox 49 138 1731 184; baseline -0.004 -4"><span class='ocrx_word' id='word_1_1' title='bbox 49 144 194 184; x_wconf 71' lang='lat' dir='ltr'>ARKIV</span> <span class='ocrx_word' id='word_1_2' title='bbox 224 138 316 182; x_wconf 76' lang='lat' dir='ltr'><strong>FOR</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 343 143 566 180; x_wconf 85' lang='grc' dir='ltr'>ΒΟΤΑΝΙΚ.</span> <span class='ocrx_word' id='word_1_4' title='bbox 620 142 720 177; x_wconf 82' lang='lat' dir='ltr'>ssand</span> <span class='ocrx_word' id='word_1_5' title='bbox 753 142 803 176; x_wconf 85' lang='lat'><strong>15.</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 857 141 925 175; x_wconf 77' lang='lat' dir='ltr'><strong>Nzo</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 952 141 984 175; x_wconf 85' lang='lat'><strong>9.</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 1599 140 1672 174; x_wconf 80' lang='lat' dir='ltr'>Taf.</span> <span class='ocrx_word' id='word_1_9' title='bbox 1704 142 1731 174; x_wconf 89' lang='lat'><strong>1.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 51 271 1728 3014">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 51 271 1728 3014">
+     <span class='ocr_line' id='line_1_2' title="bbox 51 271 1728 3014; baseline 0 0"><span class='ocrx_word' id='word_1_10' title='bbox 51 271 1728 3014; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 51 3018 213 3046">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 51 3018 213 3046">
+     <span class='ocr_line' id='line_1_3' title="bbox 51 3018 213 3046; baseline 0.006 -1"><span class='ocrx_word' id='word_1_11' title='bbox 51 3018 136 3046; x_wconf 79' lang='lat' dir='ltr'><strong>Auct.</strong></span> <span class='ocrx_word' id='word_1_12' title='bbox 155 3018 213 3046; x_wconf 84' lang='lat' dir='ltr'>del.</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
